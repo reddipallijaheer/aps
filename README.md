@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/reddipallijaheer/aps/tree/master/0219-contains-duplicate-ii) |
+| [0496-next-greater-element-i](https://github.com/reddipallijaheer/aps/tree/master/0496-next-greater-element-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/reddipallijaheer/aps/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/reddipallijaheer/aps/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/reddipallijaheer/aps/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/reddipallijaheer/aps/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/reddipallijaheer/aps/tree/master/0219-contains-duplicate-ii) |
+| [0496-next-greater-element-i](https://github.com/reddipallijaheer/aps/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/reddipallijaheer/aps/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/reddipallijaheer/aps/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -67,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/reddipallijaheer/aps/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/reddipallijaheer/aps/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
