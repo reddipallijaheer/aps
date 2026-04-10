@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/reddipallijaheer/aps/tree/master/0020-valid-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/reddipallijaheer/aps/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/reddipallijaheer/aps/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Simulation
 |  |
 | ------- |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/reddipallijaheer/aps/tree/master/0113-path-sum-ii) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/reddipallijaheer/aps/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
