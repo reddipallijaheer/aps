@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/reddipallijaheer/aps/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reddipallijaheer/aps/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0215-kth-largest-element-in-an-array](https://github.com/reddipallijaheer/aps/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/reddipallijaheer/aps/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/reddipallijaheer/aps/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/reddipallijaheer/aps/tree/master/0496-next-greater-element-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/reddipallijaheer/aps/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/reddipallijaheer/aps/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/reddipallijaheer/aps/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -84,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/reddipallijaheer/aps/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/reddipallijaheer/aps/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/reddipallijaheer/aps/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/reddipallijaheer/aps/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/reddipallijaheer/aps/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
@@ -182,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/reddipallijaheer/aps/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/reddipallijaheer/aps/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/reddipallijaheer/aps/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
