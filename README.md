@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/reddipallijaheer/aps/tree/master/0102-binary-tree-level-order-traversal) |
+| [1971-find-if-path-exists-in-graph](https://github.com/reddipallijaheer/aps/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/reddipallijaheer/aps/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/reddipallijaheer/aps/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/reddipallijaheer/aps/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/reddipallijaheer/aps/tree/master/1971-find-if-path-exists-in-graph) |
 ## Counting
 |  |
 | ------- |
@@ -203,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/reddipallijaheer/aps/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/reddipallijaheer/aps/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/reddipallijaheer/aps/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
