@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/reddipallijaheer/aps/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/reddipallijaheer/aps/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/reddipallijaheer/aps/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/reddipallijaheer/aps/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/reddipallijaheer/aps/tree/master/0997-find-the-town-judge) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/reddipallijaheer/aps/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/reddipallijaheer/aps/tree/master/1480-running-sum-of-1d-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/reddipallijaheer/aps/tree/master/0102-binary-tree-level-order-traversal) |
+| [0994-rotting-oranges](https://github.com/reddipallijaheer/aps/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/reddipallijaheer/aps/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/reddipallijaheer/aps/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/reddipallijaheer/aps/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/reddipallijaheer/aps/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
