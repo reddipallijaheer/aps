@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/reddipallijaheer/aps/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/reddipallijaheer/aps/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/reddipallijaheer/aps/tree/master/0496-next-greater-element-i) |
+| [0695-max-area-of-island](https://github.com/reddipallijaheer/aps/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/reddipallijaheer/aps/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/reddipallijaheer/aps/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/reddipallijaheer/aps/tree/master/0739-daily-temperatures) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/reddipallijaheer/aps/tree/master/0102-binary-tree-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/reddipallijaheer/aps/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/reddipallijaheer/aps/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/reddipallijaheer/aps/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/reddipallijaheer/aps/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/reddipallijaheer/aps/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/reddipallijaheer/aps/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/reddipallijaheer/aps/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/reddipallijaheer/aps/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/reddipallijaheer/aps/tree/master/1971-find-if-path-exists-in-graph) |
 ## Counting
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/reddipallijaheer/aps/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/reddipallijaheer/aps/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/reddipallijaheer/aps/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -225,5 +229,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/reddipallijaheer/aps/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/reddipallijaheer/aps/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
