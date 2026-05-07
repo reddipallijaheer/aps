@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/reddipallijaheer/aps/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/reddipallijaheer/aps/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/reddipallijaheer/aps/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/reddipallijaheer/aps/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/reddipallijaheer/aps/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/reddipallijaheer/aps/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/reddipallijaheer/aps/tree/master/0977-squares-of-a-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/reddipallijaheer/aps/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/reddipallijaheer/aps/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/reddipallijaheer/aps/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/reddipallijaheer/aps/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/reddipallijaheer/aps/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/reddipallijaheer/aps/tree/master/0496-next-greater-element-i) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/reddipallijaheer/aps/tree/master/0202-happy-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/reddipallijaheer/aps/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Search
 |  |
