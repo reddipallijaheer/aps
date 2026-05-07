@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/reddipallijaheer/aps/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/reddipallijaheer/aps/tree/master/0049-group-anagrams) |
+| [0257-binary-tree-paths](https://github.com/reddipallijaheer/aps/tree/master/0257-binary-tree-paths) |
 | [0474-ones-and-zeroes](https://github.com/reddipallijaheer/aps/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/reddipallijaheer/aps/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/reddipallijaheer/aps/tree/master/0929-unique-email-addresses) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/reddipallijaheer/aps/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/reddipallijaheer/aps/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/reddipallijaheer/aps/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/reddipallijaheer/aps/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reddipallijaheer/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/reddipallijaheer/aps/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/reddipallijaheer/aps/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/reddipallijaheer/aps/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/reddipallijaheer/aps/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reddipallijaheer/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Queue
 |  |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/reddipallijaheer/aps/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/reddipallijaheer/aps/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/reddipallijaheer/aps/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/reddipallijaheer/aps/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/reddipallijaheer/aps/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/reddipallijaheer/aps/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/reddipallijaheer/aps/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/reddipallijaheer/aps/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/reddipallijaheer/aps/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/reddipallijaheer/aps/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/reddipallijaheer/aps/tree/master/0721-accounts-merge) |
