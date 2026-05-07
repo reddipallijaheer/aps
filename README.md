@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/reddipallijaheer/aps/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reddipallijaheer/aps/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/reddipallijaheer/aps/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/reddipallijaheer/aps/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/reddipallijaheer/aps/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/reddipallijaheer/aps/tree/master/0239-sliding-window-maximum) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/reddipallijaheer/aps/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/reddipallijaheer/aps/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/reddipallijaheer/aps/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/reddipallijaheer/aps/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/reddipallijaheer/aps/tree/master/0542-01-matrix) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/reddipallijaheer/aps/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/reddipallijaheer/aps/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/reddipallijaheer/aps/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/reddipallijaheer/aps/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/reddipallijaheer/aps/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/reddipallijaheer/aps/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/reddipallijaheer/aps/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/reddipallijaheer/aps/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/reddipallijaheer/aps/tree/master/1971-find-if-path-exists-in-graph) |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/reddipallijaheer/aps/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/reddipallijaheer/aps/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/reddipallijaheer/aps/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/reddipallijaheer/aps/tree/master/0994-rotting-oranges) |
