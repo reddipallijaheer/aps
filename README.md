@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/reddipallijaheer/aps/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/reddipallijaheer/aps/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reddipallijaheer/aps/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/reddipallijaheer/aps/tree/master/0200-number-of-islands) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/reddipallijaheer/aps/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/reddipallijaheer/aps/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/reddipallijaheer/aps/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/reddipallijaheer/aps/tree/master/0347-top-k-frequent-elements) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/reddipallijaheer/aps/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/reddipallijaheer/aps/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/reddipallijaheer/aps/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/reddipallijaheer/aps/tree/master/0202-happy-number) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/reddipallijaheer/aps/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/reddipallijaheer/aps/tree/master/0049-group-anagrams) |
 | [0721-accounts-merge](https://github.com/reddipallijaheer/aps/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/reddipallijaheer/aps/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/reddipallijaheer/aps/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
