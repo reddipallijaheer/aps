@@ -162,10 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/reddipallijaheer/aps/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/reddipallijaheer/aps/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/reddipallijaheer/aps/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/reddipallijaheer/aps/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/reddipallijaheer/aps/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/reddipallijaheer/aps/tree/master/0933-number-of-recent-calls) |
 ## String
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/reddipallijaheer/aps/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/reddipallijaheer/aps/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/reddipallijaheer/aps/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
