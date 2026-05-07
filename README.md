@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/reddipallijaheer/aps/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/reddipallijaheer/aps/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/reddipallijaheer/aps/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reddipallijaheer/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/reddipallijaheer/aps/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/reddipallijaheer/aps/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/reddipallijaheer/aps/tree/master/0929-unique-email-addresses) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reddipallijaheer/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/reddipallijaheer/aps/tree/master/0997-find-the-town-judge) |
 | [1763-longest-nice-substring](https://github.com/reddipallijaheer/aps/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/reddipallijaheer/aps/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/reddipallijaheer/aps/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/reddipallijaheer/aps/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reddipallijaheer/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/reddipallijaheer/aps/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/reddipallijaheer/aps/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/reddipallijaheer/aps/tree/master/0841-keys-and-rooms) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reddipallijaheer/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/reddipallijaheer/aps/tree/master/0994-rotting-oranges) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/reddipallijaheer/aps/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/reddipallijaheer/aps/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/reddipallijaheer/aps/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/reddipallijaheer/aps/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/reddipallijaheer/aps/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reddipallijaheer/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -278,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/reddipallijaheer/aps/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/reddipallijaheer/aps/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/reddipallijaheer/aps/tree/master/0841-keys-and-rooms) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reddipallijaheer/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/reddipallijaheer/aps/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1971-find-if-path-exists-in-graph](https://github.com/reddipallijaheer/aps/tree/master/1971-find-if-path-exists-in-graph) |
 ## Counting
