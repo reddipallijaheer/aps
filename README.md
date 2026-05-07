@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/reddipallijaheer/aps/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/reddipallijaheer/aps/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/reddipallijaheer/aps/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/reddipallijaheer/aps/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/reddipallijaheer/aps/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/reddipallijaheer/aps/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/reddipallijaheer/aps/tree/master/0721-accounts-merge) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/reddipallijaheer/aps/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/reddipallijaheer/aps/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/reddipallijaheer/aps/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/reddipallijaheer/aps/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/reddipallijaheer/aps/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/reddipallijaheer/aps/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/reddipallijaheer/aps/tree/master/0977-squares-of-a-sorted-array) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/reddipallijaheer/aps/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/reddipallijaheer/aps/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/reddipallijaheer/aps/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/reddipallijaheer/aps/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/reddipallijaheer/aps/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/reddipallijaheer/aps/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reddipallijaheer/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/reddipallijaheer/aps/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/reddipallijaheer/aps/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/reddipallijaheer/aps/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0621-task-scheduler](https://github.com/reddipallijaheer/aps/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/reddipallijaheer/aps/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/reddipallijaheer/aps/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/reddipallijaheer/aps/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/reddipallijaheer/aps/tree/master/0621-task-scheduler) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/reddipallijaheer/aps/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Binary Search Tree
 |  |
@@ -390,4 +395,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/reddipallijaheer/aps/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/reddipallijaheer/aps/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
