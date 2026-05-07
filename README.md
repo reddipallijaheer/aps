@@ -64,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/reddipallijaheer/aps/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/reddipallijaheer/aps/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/reddipallijaheer/aps/tree/master/0997-find-the-town-judge) |
+| [1763-longest-nice-substring](https://github.com/reddipallijaheer/aps/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/reddipallijaheer/aps/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/reddipallijaheer/aps/tree/master/0239-sliding-window-maximum) |
+| [1763-longest-nice-substring](https://github.com/reddipallijaheer/aps/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/reddipallijaheer/aps/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/reddipallijaheer/aps/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/reddipallijaheer/aps/tree/master/0347-top-k-frequent-elements) |
+| [1763-longest-nice-substring](https://github.com/reddipallijaheer/aps/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/reddipallijaheer/aps/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/reddipallijaheer/aps/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/reddipallijaheer/aps/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1763-longest-nice-substring](https://github.com/reddipallijaheer/aps/tree/master/1763-longest-nice-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -291,4 +295,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/reddipallijaheer/aps/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/reddipallijaheer/aps/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
